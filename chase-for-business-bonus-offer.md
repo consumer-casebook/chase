@@ -12,7 +12,7 @@
 ## Customer Service History
 
 - 2025-JUL-23: Recevied email "Here's the bonus offer code of up to $1,500 you requested", "Your offer code: YR99 6972 246U 3HCC | Expires: 10/16/2025" REF: `xWJnB`, SEE [2025-07-23_Chase_Bonus_Offer_Full_Solicitation.pdf](2025-07-23_Chase_Bonus_Offer_Full_Solicitation.pdf)
-- 2025-JUL-29: Opened "Chase Business Complete Checking" account at 15665N Hayden Rd, Scottsdale, AZ branch - Eddi Kalantaradeh, Relationship Banker, 480-970-1493, provided copy of offer, SEE: [2025-07-29_Chase_Bonus_Offer.png](2025-07-29_Chase_Bonus_Offer.png), linked two existing Chase cards for LLC and personal auto loan in new username/login per recommendation of banker.
+- 2025-JUL-29: Opened "Chase Business Complete Checking" account at 15665N Hayden Rd, Scottsdale, AZ branch - Eddi Kalantaradeh, Relationship Banker, 480-970-1493, provided copy of offer on iPhone, SEE: [2025-07-29_Chase_Bonus_Offer.png](2025-07-29_Chase_Bonus_Offer.png), linked two existing Chase cards for LLC and personal auto loan in new username/login per recommendation of banker.
 - 2025-JUL-29 email: "Welcome to Chase Online" REF: `xWZlb`
 - 2025-JUL-29 is the `OFFER ENROLLMENT DATE`, now:
   - matainain $20,000 balance for 60 days. 60 days from 2025-JUL-29 = 2025-SEP-27
