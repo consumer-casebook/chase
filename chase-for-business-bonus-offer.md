@@ -11,7 +11,7 @@
 
 ## Customer Service History
 
-- 2025-JUL-23: Recevied email "Here's the bonus offer code of up to $1,500 you requested", "Your offer code: YR99 6972 246U 3HCC | Expires: 10/16/2025" REF: `xWJnB`
+- 2025-JUL-23: Recevied email "Here's the bonus offer code of up to $1,500 you requested", "Your offer code: YR99 6972 246U 3HCC | Expires: 10/16/2025" REF: `xWJnB`, SEE [2025-07-23_Chase_Bonus_Offer_Full_Solicitation.pdf](2025-07-23_Chase_Bonus_Offer_Full_Solicitation.pdf)
 - 2025-JUL-29: Opened "Chase Business Complete Checking" account at 15665N Hayden Rd, Scottsdale, AZ branch - Eddi Kalantaradeh, Relationship Banker, 480-970-1493, provided copy of offer, SEE: [2025-07-29_Chase_Bonus_Offer.png](2025-07-29_Chase_Bonus_Offer.png), linked two existing Chase cards for LLC and personal auto loan in new username/login per recommendation of banker.
 - 2025-JUL-29 email: "Welcome to Chase Online" REF: `xWZlb`
 - 2025-JUL-29 is the `OFFER ENROLLMENT DATE`, now:
@@ -34,22 +34,20 @@
 
 1. Earn $750 with a minimum deposit of $20,000 in new money within 30 days of offer enrollment
 2. Maintain the new money (at least $20,000 for the $750 offer) in the new checking account
-  - maintain that balance for 60 days from offer enrollment.
-  - If new money deposit amount decreases below the threshold during the 60‑day period, your offer amount may change or your checking account may no longer qualify for the offer.
+    1. maintain that balance for 60 days from offer enrollment.
+    2. If new money deposit amount decreases below the threshold during the 60‑day period, your offer amount may change or your checking account may no longer qualify for the offer.
 3. Complete 5 qualifying transactions within 90 days of offer enrollment.
-  - debit card purchases
-  - Chase QuickDeposit (mobile deposit)
-  - ACH (credits)
-  - wires (credits and debits)
-  - Chase Online Bill Pay 
-  - Chase QuickAccept (combined into one daily qualifying transaction)
+    1. debit card purchases
+    2. Chase QuickDeposit (mobile deposit)
+    3. ACH (credits)
+    4. wires (credits and debits)
+    5. Chase Online Bill Pay 
+    6. Chase QuickAccept (combined into one daily qualifying transaction)
 4. Your bonus will be deposited within 15 days.
 
 ## Account Transactions (EVIDENCE)
 
-Below are the transactions from `OFFER ENROLLMENT DATE` (2025-JUL-29) through the `QUALIFICATION PERIOD` (2025-OCT-27).
-
-The `NUM` column indicates the cummulative count of qualifying transactions as defined by the **TERMS** as of the `POSTING_DATE`.
+Below are the transactions from `OFFER ENROLLMENT DATE` (2025-JUL-29) through the `QUALIFICATION PERIOD` (2025-OCT-27). The `NUM` column indicates the cummulative count of qualifying transactions as defined by the **TERMS** as of the `POSTING_DATE`.
 
 | NUM | POSTING_DATE | DESCRIPTION                  | AMOUNT    | TYPE          | BALANCE  |
 | --: | ------------ | -------------------------- | --------: | ------------- | -------: |
